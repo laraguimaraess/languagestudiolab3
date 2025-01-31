@@ -1,6 +1,7 @@
 **#Laboratório 3 - Language Studio - Análise de sentimentos e opiniões**
 
 
+
 *Frases analisadas e suas respectivas avaliações:*
 
 1- Você consistentemente entrega o trabalho nos prazos acordados, o que ajuda a manter todo o departamento dentro do cronograma.
@@ -21,4 +22,5 @@ Saída: 97% negativo / 3% neutro
 
 
 *Análise da ferramenta*
+
 A capacidade de analisar sentimentos em um texto é inegável. A essência da frase é captada e determinada de forma clara e simples. Em alguns casos são mostradas palavras chaves que justificam a classificação final. Apesar de tudo, ainda existem pontos em que não se percebe a mesma análise de um humano, como em frases de comparação, que teoricamente seraim neutrras, classificadas como negativas. 
